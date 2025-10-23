@@ -91,28 +91,3 @@ q1 (Upload) → q2 (Kelengkapan) → q3 (Judul) → q4 (Pendahuluan)
 → q5 (Tinjauan Pustaka) → q6 (Metode) → q7 (Format) → Selesai
 ```
 
-## 💡 Fitur Tambahan
-
-- Preview PDF dengan scrollbar
-- Entry field untuk catatan setiap bagian
-- Notifikasi status upload
-- Window terpisah untuk setiap tahap review
-- Hasil review tersimpan dan dapat dilihat kapan saja
-
-## 🔧 Troubleshooting
-
-**Error saat membuka PDF:**
-- Pastikan PyMuPDF terinstal dengan benar
-- Cek format file yang didukung (PDF, DOCX, PNG)
-
-**GUI tidak muncul:**
-- Pastikan Tkinter terinstal (sudah termasuk dalam Python standard)
-- Jalankan sebagai administrator jika diperlukan
-
-## 📄 Lisensi
-
-Project ini dibuat untuk keperluan edukasi.
-
----
-
-**Dibuat dengan ❤️ untuk Teori Bahasa dan Otomata**
